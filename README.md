@@ -5,9 +5,7 @@
 - **CCID:** `abanaag`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
-- To be determined
+- Lab 1 instructions
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
-- To be determined
+- `N/A`
